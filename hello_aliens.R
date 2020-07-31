@@ -1,1 +1,3 @@
-cat("my message")
+cat("To whomever is reading this and does not reside or originate from planet Earth,\n I am a citizen of planet earth and am writing you in hopes of sparking an interaction and collaboration between
+    our two great planets in the hope of bettering the lives of all who live in both. If you are willing, we would love to set up a meeting somewhere in space where we can discuss the interaction and/or gradual assimilation between our
+    two planets. Please let us know you thought and we are excited about the posibility of meeting and learning from/about you all.\n Respectfully,\nErik Ross\nCitizen and Representative of of Planet Earth")
